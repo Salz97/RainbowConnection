@@ -4,3 +4,5 @@ In application properties you need to also put the password of your SQL shell to
 
 I used Java and Springboot to run my backend application using JPA to interact with my SQL database.
 I wrote my frontend with React JS. 
+RainbowConnection is my backend code.
+Rainbow is my frontend code.
